@@ -47,7 +47,7 @@ button_divide = Button(root, text ="/",width =2)
 button_multiply = Button(root, text ="x",width =2)
 button_subtract = Button(root, text ="-",width =2)
 button_add = Button(root, text ="+",width =4)
-button_deletall = Button(root, text ="&", width =2)
+button_deletall = Button(root, text ="CE", width =2)
 
 answer.grid(row =0, columnspan = 5)
 button_7.grid(row = 1, column =0)
